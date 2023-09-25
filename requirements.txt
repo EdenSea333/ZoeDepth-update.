@@ -1,0 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch
+timm==0.6.11
+torchvision
+trimesh
